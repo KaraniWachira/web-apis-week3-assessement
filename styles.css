@@ -1,0 +1,16 @@
+
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    border: none;
+    background: yellowgreen;
+    margin-top: 10%;
+    font-size: 3rem;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+
